@@ -1,0 +1,58 @@
+/* Блок B: экран блокировки, цифровая клавиатура, шаги онбординга, группы настроек */
+:root{--danger:#C23B3B}
+[data-mode=dark]{--danger:#FF8A8A}
+
+/* экран блокировки */
+.lockscr{min-height:100vh;display:flex;flex-direction:column;align-items:center;gap:16px;padding:56px 24px calc(20px + env(safe-area-inset-bottom));background:var(--bg)}
+.lk-top{display:flex;flex-direction:column;align-items:center;gap:10px;text-align:center;margin-top:3vh}
+.lk-top h1{font-size:28px;line-height:1.15;font-weight:800}
+.lk-msg,.pm{min-height:20px;font-size:15px;line-height:20px;text-align:center}
+.lk-msg.err,.pm.err{color:var(--danger)}
+.lockscr .kpad{margin-top:auto}
+.lockscr .btn.link{width:auto;padding:0 20px}
+
+/* точки PIN и клавиатура */
+.pdots{display:flex;gap:18px;justify-content:center;padding:10px 0}
+.pdots i{width:14px;height:14px;border-radius:7px;box-shadow:inset 0 0 0 2px var(--text2);transition:background .1s}
+.pdots i.on{background:var(--accent);box-shadow:none}
+.pdots.err{animation:shake .36s}
+.pdots.err i{box-shadow:inset 0 0 0 2px var(--danger)}
+@keyframes shake{20%,60%{transform:translateX(-8px)}40%,80%{transform:translateX(8px)}}
+.kpad{display:grid;grid-template-columns:repeat(3,72px);gap:14px 26px;justify-content:center}
+.kpad>span{width:72px;height:72px}
+.key{width:72px;height:72px;border:0;border-radius:36px;background:var(--field);color:var(--text);font-size:28px;line-height:1;font-weight:600;display:flex;align-items:center;justify-content:center;padding:0}
+.key:active{opacity:1;background:var(--btnSoft)}
+.key.fn{background:none;color:var(--text2)}
+.key.fn .i{width:28px;height:28px}
+.kpad.off .key:not(.fn){opacity:.35}
+
+/* ввод PIN в шторке и в шаге */
+.pinbox{display:flex;flex-direction:column;align-items:center;gap:12px;text-align:center}
+.pinbox .pt{font-size:20px;line-height:26px;font-weight:800}
+.pinbox .kpad{margin-top:6px}
+.pinbox .btn.link{width:auto;padding:0 20px}
+.pinhost{flex:1;display:flex;flex-direction:column;justify-content:center}
+
+/* шаги онбординга */
+.bstep{gap:14px;padding-top:40px;padding-bottom:calc(20px + env(safe-area-inset-bottom))}
+.bstep h1{font-size:26px;line-height:1.15;font-weight:800}
+.bstep>p{font-size:16px;line-height:24px}
+.bico{width:64px;height:64px;border-radius:32px;background:var(--btnSoft);color:var(--accent);display:flex;align-items:center;justify-content:center;margin-top:24px}
+.bico .i{width:32px;height:32px}
+.bact{margin-top:auto;display:flex;flex-direction:column;gap:6px;text-align:center}
+.sdots{display:flex;gap:6px}
+.sdots i{height:4px;flex:1;border-radius:2px;background:var(--line)}
+.sdots i.on,.sdots i.cur{background:var(--accent)}
+.sdots i.on{opacity:.45}
+
+/* настройки: группы */
+.glist{gap:8px}
+.grp{padding:0;gap:0}
+.ghead{display:flex;align-items:center;gap:12px;width:100%;min-height:60px;padding:10px 14px;border:0;background:none;text-align:left;color:var(--text)}
+.ghead .gt{flex:1;min-width:0;display:flex;flex-direction:column}
+.ghead .gt b{font-size:16px;line-height:22px}
+.ghead .gt span{font-size:13px;line-height:18px;color:var(--text2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ghead .gch{color:var(--text2);transition:transform .15s}
+.grp.open .gch{transform:rotate(90deg)}
+.gbody{display:flex;flex-direction:column;gap:12px;padding:0 16px 16px}
+.outlink{align-self:center;border:0;background:none;color:var(--danger);font-size:16px;font-weight:700;padding:14px 24px;margin-top:8px}
