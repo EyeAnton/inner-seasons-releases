@@ -670,12 +670,12 @@ function openEntry(date, preset) {
     });
     $('#send', el).onmousedown = e => e.preventDefault();
     // пока открыта клавиатура, ниже поля ничего не показываем: теги есть в самом поле, отправка — стрелкой
-    const txt = $('#txt', el), sh = el.closest('.sheet');
+    const txt = $('#txt', el), sheetEl = el.closest('.sheet');
     let fullH = window.innerHeight;
-    const typing = () => { const kb = window.innerHeight < fullH * .8; sh.classList.toggle('typing', document.activeElement === txt && kb); };
+    const typing = () => { const kb = window.innerHeight < fullH * .8; sheetEl.classList.toggle('typing', document.activeElement === txt && kb); };
     txt.addEventListener('focus', () => setTimeout(typing, 300));
     txt.addEventListener('blur', () => setTimeout(typing, 50));
-    window.addEventListener('resize', () => { if (!sh.isConnected) return; fullH = Math.max(fullH, window.innerHeight); typing(); });
+    window.addEventListener('resize', () => { if (!sheetEl.isConnected) return; fullH = Math.max(fullH, window.innerHeight); typing(); });
     $('#send', el).onclick = () => $('#save', el).click();
     $$('[data-vis]', el).forEach(b => b.onclick = () => { d.vis = b.dataset.vis; $$('[data-vis]', el).forEach(x => x.classList.toggle('on', x === b)); $('#vis-hint', el).textContent = VIS_HINT[d.vis]; });
     const sh = $('#share', el); if (sh) sh.onclick = () => { d.share = !d.share; sh.classList.toggle('on', d.share); };
