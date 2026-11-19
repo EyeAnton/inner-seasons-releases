@@ -1,0 +1,21 @@
+/* Календарь: переходные дни между сезонами и лунный вид */
+:root{--tr:#DDD3EC;--trT:#2E2A2C;--trA:#6B52A3}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--tr:#3B3152;--trT:#F2ECEE;--trA:#B9A6E8}}
+:root[data-theme="dark"]{--tr:#3B3152;--trT:#F2ECEE;--trA:#B9A6E8}
+
+/* переходный день: свой цвет, по рамке — две стрелки по часовой стрелке, вместе образуют рамку */
+/* фон — градиент сезонов (.gated, --g1/--g2 из токенов сезонов, a.css); здесь только стрелки */
+.dcell.trans{color:var(--fT)}
+.dcell.trans.future{color:var(--text2)}
+.dcell .trf{position:absolute;inset:0;width:100%;height:100%;overflow:visible;pointer-events:none}
+.dcell .trf path:not(.hd){stroke:var(--trA);stroke-width:1;stroke-opacity:.8;stroke-linecap:round;stroke-linejoin:round}
+.dcell .trf .hd{fill:var(--trA);stroke:none}
+.dcell.trans.guess{opacity:1}
+
+/* лунный вид */
+.dcell .mo{position:absolute;top:2px;right:3px;font-style:normal;font-size:11px;line-height:12px}
+.dcell .mo.ev{font-size:14px;line-height:15px;top:1px}
+.dcell.moononly{background:var(--field);color:var(--text)}
+.dcell.moononly.future{background:none;box-shadow:inset 0 0 0 1.5px var(--field);color:var(--text2)}
+.dcell.moononly .mo{position:static;font-size:16px;line-height:18px}
+.dcell.moononly .mo.ev{font-size:19px;line-height:20px}
