@@ -1,0 +1,1352 @@
+{
+ "items": [
+  {
+   "id": "day-winter-her-1",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "her",
+   "text": "Сегодня можно отдыхать. Тишина — это тоже дело, и самое важное сейчас.",
+   "status": "draft",
+   "original": "Время отдыха и тишины. Отмени лишнее, разреши себе ничего не делать. Здесь рождаются ответы и видение на следующий цикл."
+  },
+  {
+   "id": "day-winter-her-2",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "her",
+   "text": "Отложи всё, что не горит. Ты ничего не должна — только быть.",
+   "status": "draft"
+  },
+  {
+   "id": "day-winter-her-3",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "her",
+   "text": "Зима — время замедлиться. Тепло, плед, чай и никакой спешки.",
+   "status": "draft"
+  },
+  {
+   "id": "day-winter-her-4",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "her",
+   "text": "Если хочется молчать и лежать — так и сделай. Тебе можно.",
+   "status": "draft"
+  },
+  {
+   "id": "day-winter-her-5",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "her",
+   "text": "Пусть мысли идут сами. Ответы на новый цикл рождаются в тишине.",
+   "status": "draft"
+  },
+  {
+   "id": "day-winter-him-1",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "him",
+   "text": "Сегодня ей нужна тишина. Возьми на себя быт: еда, тепло, порядок — без лишних вопросов.",
+   "status": "draft",
+   "original": "Возьми на себя быт и логистику. Меньше вопросов и планов, больше тепла: плед, грелка, еда без её участия. Не жди «прежней» её — дай тишину."
+  },
+  {
+   "id": "day-winter-him-2",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "him",
+   "text": "Плед, грелка, чай — и не ждать от неё разговоров. Просто будь рядом.",
+   "status": "draft"
+  },
+  {
+   "id": "day-winter-him-3",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "him",
+   "text": "Не нужно её «чинить» и не нужно развлекать. Забота молчаливая — как раз то, что надо.",
+   "status": "draft"
+  },
+  {
+   "id": "day-winter-him-4",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "him",
+   "text": "Не жди, что она будет как обычно. Это не про тебя — это зима.",
+   "status": "draft"
+  },
+  {
+   "id": "day-winter-him-5",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "him",
+   "text": "Скажи коротко: «Я всё беру на себя, отдыхай». Этого достаточно.",
+   "status": "draft"
+  },
+  {
+   "id": "day-spring-her-1",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "her",
+   "text": "Возвращается лёгкость. Пробуй новое, но понемногу — весна ещё хрупкая.",
+   "status": "draft",
+   "original": "Возвращается любопытство и лёгкость. Пробуй новое понемногу, не перегружайся сразу — весна ещё хрупкая."
+  },
+  {
+   "id": "day-spring-her-2",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "her",
+   "text": "Любопытство просыпается. Следуй ему мягко, без плана и без спешки.",
+   "status": "draft"
+  },
+  {
+   "id": "day-spring-her-3",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "her",
+   "text": "Силы потихоньку прибавляются. Выбери одно маленькое дело и порадуйся ему.",
+   "status": "draft"
+  },
+  {
+   "id": "day-spring-her-4",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "her",
+   "text": "Хочется нового — это хорошо. Не нужно успевать всё сразу.",
+   "status": "draft"
+  },
+  {
+   "id": "day-spring-her-5",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "her",
+   "text": "Прогулка, музыка, новая мелочь для себя. Пусть будет легко.",
+   "status": "draft"
+  },
+  {
+   "id": "day-spring-him-1",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "him",
+   "text": "У неё просыпается интерес ко всему. Поддержи её идеи — даже совсем маленькие.",
+   "status": "draft",
+   "original": "Поддержи её идеи и игру: предложи новое место, прогулку, начни вместе что-то маленькое. Хорошее время для разговоров о планах."
+  },
+  {
+   "id": "day-spring-him-2",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "him",
+   "text": "Хороший день предложить прогулку или новое место. Без нажима, просто как приглашение.",
+   "status": "draft"
+  },
+  {
+   "id": "day-spring-him-3",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "him",
+   "text": "Можно начать вместе что-то небольшое: рецепт, фильм, прогулку.",
+   "status": "draft"
+  },
+  {
+   "id": "day-spring-him-4",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "him",
+   "text": "Сейчас легко говорить о планах. Спроси, о чём она мечтает.",
+   "status": "draft"
+  },
+  {
+   "id": "day-spring-him-5",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "him",
+   "text": "Повеселись вместе с ней. Лёгкость сейчас заразительна.",
+   "status": "draft"
+  },
+  {
+   "id": "day-summer-her-1",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "her",
+   "text": "Много сил и тепла. Действуй, общайся, будь заметной — тебе идёт.",
+   "status": "draft",
+   "original": "Пик энергии и отдачи. Действуй, общайся, проявляйся — но замечай, где отдаёшь слишком много."
+  },
+  {
+   "id": "day-summer-her-2",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "her",
+   "text": "Это твоё время сиять. Только не забывай и о себе: отдавать можно, не отдавая всё.",
+   "status": "draft"
+  },
+  {
+   "id": "day-summer-her-3",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "her",
+   "text": "Хочется людей, разговоров, дел — пусть. И оставь немного сил на вечер.",
+   "status": "draft"
+  },
+  {
+   "id": "day-summer-her-4",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "her",
+   "text": "Заметь, где ты берёшь слишком много. Один отказ не страшен.",
+   "status": "draft"
+  },
+  {
+   "id": "day-summer-her-5",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "her",
+   "text": "Лето — про близость. Позволь себе принимать тепло так же, как отдаёшь.",
+   "status": "draft"
+  },
+  {
+   "id": "day-summer-him-1",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "him",
+   "text": "Хорошее время для близости. Скажи вслух, что ты в ней ценишь.",
+   "status": "draft",
+   "original": "Время близости, совместных дел и признания. Скажи вслух, что ценишь. Помоги не взять больше, чем она потянет в осень."
+  },
+  {
+   "id": "day-summer-him-2",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "him",
+   "text": "У неё много энергии. Побудьте вместе: общее дело, прогулка, вечер вдвоём.",
+   "status": "draft"
+  },
+  {
+   "id": "day-summer-him-3",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "him",
+   "text": "Поблагодари её за что-то конкретное. Для неё это важно.",
+   "status": "draft"
+  },
+  {
+   "id": "day-summer-him-4",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "him",
+   "text": "Если она берётся за слишком многое — мягко помоги остановиться.",
+   "status": "draft"
+  },
+  {
+   "id": "day-summer-him-5",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "him",
+   "text": "Побудь внимательным. Сейчас она открыта, и любое тёплое слово дойдёт.",
+   "status": "draft"
+  },
+  {
+   "id": "day-autumn-her-1",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "her",
+   "text": "Критик внутри громче, но и правда яснее. Замечай, что тебя тревожит: это важно.",
+   "status": "draft",
+   "original": "Внутренний критик громче, но и правда острее. Замечай, что раздражает — это сигнал, что важно. Завершай, а не начинай."
+  },
+  {
+   "id": "day-autumn-her-2",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "her",
+   "text": "Не начинай новое. Завершай то, что давно просится закончиться.",
+   "status": "draft"
+  },
+  {
+   "id": "day-autumn-her-3",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "her",
+   "text": "Раздражение — не «ты плохая», а «мне что-то нужно». Спроси себя, что именно.",
+   "status": "draft"
+  },
+  {
+   "id": "day-autumn-her-4",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "her",
+   "text": "Снижай темп. Меньше обязательств, больше заботы о себе.",
+   "status": "draft"
+  },
+  {
+   "id": "day-autumn-her-5",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "her",
+   "text": "Если хочется плакать или злиться — это нормально. Дай себе немного нежности.",
+   "status": "draft"
+  },
+  {
+   "id": "day-autumn-him-1",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "him",
+   "text": "Слушай суть, а не форму. За раздражением часто стоит что-то настоящее.",
+   "status": "draft",
+   "original": "Не спорь с формой — слушай суть: её раздражение часто про реальное. Сними часть нагрузки, не принимай резкость лично. Меньше сюрпризов."
+  },
+  {
+   "id": "day-autumn-him-2",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "him",
+   "text": "Не принимай резкость на свой счёт. Это не про тебя.",
+   "status": "draft"
+  },
+  {
+   "id": "day-autumn-him-3",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "him",
+   "text": "Сними с неё часть дел: ужин, звонки, мелочи. Не спрашивай, просто сделай.",
+   "status": "draft"
+  },
+  {
+   "id": "day-autumn-him-4",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "him",
+   "text": "Сегодня лучше без сюрпризов. Предсказуемость — это забота.",
+   "status": "draft"
+  },
+  {
+   "id": "day-autumn-him-5",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "him",
+   "text": "Скажи: «Я рядом, я слышу». Не нужно ничего объяснять.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-winter-1",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "gate",
+   "text": "Порог перед зимой. Сегодня можно мягко отпустить дела и выйти из спешки.",
+   "status": "draft",
+   "original": "Порог перед кровотечением. Самый важный день, чтобы отпустить дела и выйти из мира."
+  },
+  {
+   "id": "gate-winter-2",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "gate",
+   "text": "Врата в зиму. Самое время позаботиться о себе и освободить день.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-winter-3",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "gate",
+   "text": "Скоро тишина. Закончи что нужно — и разреши себе отдых.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-winter-4",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "gate",
+   "text": "Ты подходишь к порогу. Всё лишнее можно оставить за дверью.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-winter-5",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "gate",
+   "text": "Сегодня хорошо начать замедляться. Зима уже рядом, она добрая.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-spring-1",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "gate",
+   "text": "Выход из зимы. Не спеши в дела — сначала побудь с тем, что увидела за эти дни.",
+   "status": "draft",
+   "original": "Выход из зимы. Не выпрыгивай сразу в дела — сначала ясность: что увидела за эти дни?"
+  },
+  {
+   "id": "gate-spring-2",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "gate",
+   "text": "Врата в весну. Можно выдохнуть: самое тихое позади.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-spring-3",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "gate",
+   "text": "Что тебе открылось в тишине? Запиши, пока свежо.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-spring-4",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "gate",
+   "text": "Силы возвращаются бережно. Начни с малого.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-spring-5",
+   "group": "day-hint",
+   "season": "spring",
+   "slot": "gate",
+   "text": "Весна рядом. Сегодня достаточно просто заметить, как ты себя чувствуешь.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-summer-1",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "gate",
+   "text": "Переход к лету. Энергии становится больше — оставь себе запас.",
+   "status": "draft",
+   "original": "Переход к овуляции: энергия растёт, легко взять на себя лишнее."
+  },
+  {
+   "id": "gate-summer-2",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "gate",
+   "text": "Врата в лето. Хороший день, чтобы выбрать главное из всего, что тянет.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-summer-3",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "gate",
+   "text": "Тебя будет тянуть много делать. Не обязательно соглашаться на всё.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-summer-4",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "gate",
+   "text": "Лето уже близко. Пусть будет радость, а не гонка.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-summer-5",
+   "group": "day-hint",
+   "season": "summer",
+   "slot": "gate",
+   "text": "Сегодня можно порадоваться силам и не взять лишнего.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-autumn-1",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "gate",
+   "text": "Перелом после лета. Начни понемногу снижать темп — так мягче войти в осень.",
+   "status": "draft",
+   "original": "Перелом после овуляции. Начни снижать темп заранее — это смягчит ПМС."
+  },
+  {
+   "id": "gate-autumn-2",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "gate",
+   "text": "Врата в осень. Подумай, что можно отложить, и позволь себе это.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-autumn-3",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "gate",
+   "text": "Скоро станет тише и честнее. Позаботься о себе заранее.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-autumn-4",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "gate",
+   "text": "Осень рядом. Меньше обещаний, больше тепла к себе.",
+   "status": "draft"
+  },
+  {
+   "id": "gate-autumn-5",
+   "group": "day-hint",
+   "season": "autumn",
+   "slot": "gate",
+   "text": "Сегодня хорошо упростить день. Один маленький шаг навстречу покою.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-0-1",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-0",
+   "text": "Позволь себе отойти от суеты. Мысли могут идти медленно.",
+   "status": "draft",
+   "original": "Отойди от мира, позволь мыслям замедлиться."
+  },
+  {
+   "id": "chamber-0-2",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-0",
+   "text": "Побудь одна, если хочется. Мир подождёт.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-0-3",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-0",
+   "text": "Выдохни. Ничего не нужно успевать.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-0-4",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-0",
+   "text": "Тише. Прислушайся к себе.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-0-5",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-0",
+   "text": "Сегодня просто замедляйся.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-1-1",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-1",
+   "text": "Можно ничего не делать. Правда.",
+   "status": "draft",
+   "original": "Отпусти контроль, лежи, ничего не делай."
+  },
+  {
+   "id": "chamber-1-2",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-1",
+   "text": "Отпусти контроль хоть на день. Всё будет хорошо.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-1-3",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-1",
+   "text": "Прилечь — уже достаточно.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-1-4",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-1",
+   "text": "Дай телу самому решать, что ему нужно.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-1-5",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-1",
+   "text": "Не держи себя в руках. Побудь мягкой.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-2-1",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-2",
+   "text": "Позволь себе принимать тепло, еду и заботу.",
+   "status": "draft",
+   "original": "Принимай: тепло, отдых, заботу."
+  },
+  {
+   "id": "chamber-2-2",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-2",
+   "text": "Пусть о тебе позаботятся. Ты это заслуживаешь.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-2-3",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-2",
+   "text": "Тёплый чай, мягкий свет. Этого достаточно.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-2-4",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-2",
+   "text": "Принимай без «спасибо» и без «я должна».",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-2-5",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-2",
+   "text": "Тебе можно быть нуждающейся.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-3-1",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-3",
+   "text": "Если есть вопрос, который тревожит, — задай его себе спокойно. Ответ придёт.",
+   "status": "draft",
+   "original": "Задай вопрос, который тебя мучает, и слушай ответы."
+  },
+  {
+   "id": "chamber-3-2",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-3",
+   "text": "Что тебе сейчас хочется понять? Не торопи ответ.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-3-3",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-3",
+   "text": "Тихо спроси себя и послушай. Внутри ты знаешь больше, чем думаешь.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-3-4",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-3",
+   "text": "Сегодня хорошо слушать себя. Без правильных ответов.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-3-5",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-3",
+   "text": "Запиши вопрос, а ответ придёт сам, когда будешь готова.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-4-1",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-4",
+   "text": "Запиши, что хочешь взять в новый цикл. Хотя бы пару строк.",
+   "status": "draft",
+   "original": "Запиши практические подсказки на новый цикл."
+  },
+  {
+   "id": "chamber-4-2",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-4",
+   "text": "Что тебе в этом цикле помогало, а что нет? Запиши.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-4-3",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-4",
+   "text": "Три простые подсказки для будущей тебя. Этого достаточно.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-4-4",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-4",
+   "text": "Напиши себе тёплую заметку на новый цикл.",
+   "status": "draft"
+  },
+  {
+   "id": "chamber-4-5",
+   "group": "day-hint",
+   "season": "winter",
+   "slot": "chamber-4",
+   "text": "Что ты хочешь сделать иначе? Совсем маленькое и ясное.",
+   "status": "draft"
+  },
+  {
+   "id": "push-winter-her-1",
+   "group": "push",
+   "season": "winter",
+   "slot": "her",
+   "text": "Сегодня можно отдыхать.",
+   "status": "draft",
+   "original": "Время отдыха и тишины. Отмени лишнее, разреши себе ничего не делать. Здесь рождаются ответы и видение на следующий цикл."
+  },
+  {
+   "id": "push-winter-her-2",
+   "group": "push",
+   "season": "winter",
+   "slot": "her",
+   "text": "Тишина и тепло — твоё дело на сегодня.",
+   "status": "draft"
+  },
+  {
+   "id": "push-winter-her-3",
+   "group": "push",
+   "season": "winter",
+   "slot": "her",
+   "text": "Отложи лишнее. Ты ничего не должна.",
+   "status": "draft"
+  },
+  {
+   "id": "push-winter-her-4",
+   "group": "push",
+   "season": "winter",
+   "slot": "her",
+   "text": "Зима. Позаботься о себе мягко.",
+   "status": "draft"
+  },
+  {
+   "id": "push-winter-her-5",
+   "group": "push",
+   "season": "winter",
+   "slot": "her",
+   "text": "Можно ничего не делать. Правда.",
+   "status": "draft"
+  },
+  {
+   "id": "push-winter-him-1",
+   "group": "push",
+   "season": "winter",
+   "slot": "him",
+   "text": "У неё зима. Возьми на себя быт.",
+   "status": "draft",
+   "original": "Возьми на себя быт и логистику. Меньше вопросов и планов, больше тепла: плед, грелка, еда без её участия. Не жди «прежней» её — дай тишину."
+  },
+  {
+   "id": "push-winter-him-2",
+   "group": "push",
+   "season": "winter",
+   "slot": "him",
+   "text": "Сегодня — тепло и тишина. Без вопросов.",
+   "status": "draft"
+  },
+  {
+   "id": "push-winter-him-3",
+   "group": "push",
+   "season": "winter",
+   "slot": "him",
+   "text": "Поставь чай и побудь рядом.",
+   "status": "draft"
+  },
+  {
+   "id": "push-winter-him-4",
+   "group": "push",
+   "season": "winter",
+   "slot": "him",
+   "text": "Меньше слов, больше заботы.",
+   "status": "draft"
+  },
+  {
+   "id": "push-winter-him-5",
+   "group": "push",
+   "season": "winter",
+   "slot": "him",
+   "text": "Не жди «прежней» её. Это зима.",
+   "status": "draft"
+  },
+  {
+   "id": "push-spring-her-1",
+   "group": "push",
+   "season": "spring",
+   "slot": "her",
+   "text": "Возвращается лёгкость. Не спеши.",
+   "status": "draft",
+   "original": "Возвращается любопытство и лёгкость. Пробуй новое понемногу, не перегружайся сразу — весна ещё хрупкая."
+  },
+  {
+   "id": "push-spring-her-2",
+   "group": "push",
+   "season": "spring",
+   "slot": "her",
+   "text": "Попробуй что-то новое — совсем немного.",
+   "status": "draft"
+  },
+  {
+   "id": "push-spring-her-3",
+   "group": "push",
+   "season": "spring",
+   "slot": "her",
+   "text": "Весна. Интерес просыпается — следуй ему.",
+   "status": "draft"
+  },
+  {
+   "id": "push-spring-her-4",
+   "group": "push",
+   "season": "spring",
+   "slot": "her",
+   "text": "Силы прибавляются. Выбери одно приятное дело.",
+   "status": "draft"
+  },
+  {
+   "id": "push-spring-her-5",
+   "group": "push",
+   "season": "spring",
+   "slot": "her",
+   "text": "Сегодня можно играть и любопытничать.",
+   "status": "draft"
+  },
+  {
+   "id": "push-spring-him-1",
+   "group": "push",
+   "season": "spring",
+   "slot": "him",
+   "text": "У неё весна. Предложи прогулку.",
+   "status": "draft",
+   "original": "Поддержи её идеи и игру: предложи новое место, прогулку, начни вместе что-то маленькое. Хорошее время для разговоров о планах."
+  },
+  {
+   "id": "push-spring-him-2",
+   "group": "push",
+   "season": "spring",
+   "slot": "him",
+   "text": "Поддержи её новую идею.",
+   "status": "draft"
+  },
+  {
+   "id": "push-spring-him-3",
+   "group": "push",
+   "season": "spring",
+   "slot": "him",
+   "text": "Хороший день начать что-то вместе.",
+   "status": "draft"
+  },
+  {
+   "id": "push-spring-him-4",
+   "group": "push",
+   "season": "spring",
+   "slot": "him",
+   "text": "Спроси, о чём она мечтает.",
+   "status": "draft"
+  },
+  {
+   "id": "push-spring-him-5",
+   "group": "push",
+   "season": "spring",
+   "slot": "him",
+   "text": "Лёгкий день для разговоров о планах.",
+   "status": "draft"
+  },
+  {
+   "id": "push-summer-her-1",
+   "group": "push",
+   "season": "summer",
+   "slot": "her",
+   "text": "Много сил. Не забудь оставить себе немного.",
+   "status": "draft",
+   "original": "Пик энергии и отдачи. Действуй, общайся, проявляйся — но замечай, где отдаёшь слишком много."
+  },
+  {
+   "id": "push-summer-her-2",
+   "group": "push",
+   "season": "summer",
+   "slot": "her",
+   "text": "Лето. Сияй, но береги себя.",
+   "status": "draft"
+  },
+  {
+   "id": "push-summer-her-3",
+   "group": "push",
+   "season": "summer",
+   "slot": "her",
+   "text": "Побудь с людьми — и с собой тоже.",
+   "status": "draft"
+  },
+  {
+   "id": "push-summer-her-4",
+   "group": "push",
+   "season": "summer",
+   "slot": "her",
+   "text": "Хороший день для близости.",
+   "status": "draft"
+  },
+  {
+   "id": "push-summer-her-5",
+   "group": "push",
+   "season": "summer",
+   "slot": "her",
+   "text": "Заметь, где можно отказаться — и порадоваться этому.",
+   "status": "draft"
+  },
+  {
+   "id": "push-summer-him-1",
+   "group": "push",
+   "season": "summer",
+   "slot": "him",
+   "text": "У неё лето. Скажи, что ценишь её.",
+   "status": "draft",
+   "original": "Время близости, совместных дел и признания. Скажи вслух, что ценишь. Помоги не взять больше, чем она потянет в осень."
+  },
+  {
+   "id": "push-summer-him-2",
+   "group": "push",
+   "season": "summer",
+   "slot": "him",
+   "text": "Побудьте вместе — вечер, прогулка, дело.",
+   "status": "draft"
+  },
+  {
+   "id": "push-summer-him-3",
+   "group": "push",
+   "season": "summer",
+   "slot": "him",
+   "text": "Поблагодари её за что-то конкретное.",
+   "status": "draft"
+  },
+  {
+   "id": "push-summer-him-4",
+   "group": "push",
+   "season": "summer",
+   "slot": "him",
+   "text": "Помоги ей не взять лишнего.",
+   "status": "draft"
+  },
+  {
+   "id": "push-summer-him-5",
+   "group": "push",
+   "season": "summer",
+   "slot": "him",
+   "text": "Сегодня любое тёплое слово дойдёт.",
+   "status": "draft"
+  },
+  {
+   "id": "push-autumn-her-1",
+   "group": "push",
+   "season": "autumn",
+   "slot": "her",
+   "text": "Осень. Сегодня можно быть мягче к себе.",
+   "status": "draft",
+   "original": "Внутренний критик громче, но и правда острее. Замечай, что раздражает — это сигнал, что важно. Завершай, а не начинай."
+  },
+  {
+   "id": "push-autumn-her-2",
+   "group": "push",
+   "season": "autumn",
+   "slot": "her",
+   "text": "Заверши что-то, а не начинай новое.",
+   "status": "draft"
+  },
+  {
+   "id": "push-autumn-her-3",
+   "group": "push",
+   "season": "autumn",
+   "slot": "her",
+   "text": "Раздражение — это сигнал. Прислушайся.",
+   "status": "draft"
+  },
+  {
+   "id": "push-autumn-her-4",
+   "group": "push",
+   "season": "autumn",
+   "slot": "her",
+   "text": "Снизь темп. Ты справляешься.",
+   "status": "draft"
+  },
+  {
+   "id": "push-autumn-her-5",
+   "group": "push",
+   "season": "autumn",
+   "slot": "her",
+   "text": "Тебе можно уставать. Позаботься о себе.",
+   "status": "draft"
+  },
+  {
+   "id": "push-autumn-him-1",
+   "group": "push",
+   "season": "autumn",
+   "slot": "him",
+   "text": "У неё осень. Слушай суть, не форму.",
+   "status": "draft",
+   "original": "Не спорь с формой — слушай суть: её раздражение часто про реальное. Сними часть нагрузки, не принимай резкость лично. Меньше сюрпризов."
+  },
+  {
+   "id": "push-autumn-him-2",
+   "group": "push",
+   "season": "autumn",
+   "slot": "him",
+   "text": "Не принимай резкость на свой счёт.",
+   "status": "draft"
+  },
+  {
+   "id": "push-autumn-him-3",
+   "group": "push",
+   "season": "autumn",
+   "slot": "him",
+   "text": "Сними с неё часть дел.",
+   "status": "draft"
+  },
+  {
+   "id": "push-autumn-him-4",
+   "group": "push",
+   "season": "autumn",
+   "slot": "him",
+   "text": "Сегодня лучше без сюрпризов.",
+   "status": "draft"
+  },
+  {
+   "id": "push-autumn-him-5",
+   "group": "push",
+   "season": "autumn",
+   "slot": "him",
+   "text": "Скажи просто: «Я рядом».",
+   "status": "draft"
+  },
+  {
+   "id": "reply-mediator-start-1",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "mediator-start",
+   "text": "Я заметил(а)…",
+   "status": "draft",
+   "original": "Я заметил(а)…"
+  },
+  {
+   "id": "reply-mediator-start-2",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "mediator-start",
+   "text": "Я почувствовал(а)…",
+   "status": "draft",
+   "original": "Я почувствовал(а)…"
+  },
+  {
+   "id": "reply-mediator-start-3",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "mediator-start",
+   "text": "Мне бы хотелось…",
+   "status": "draft",
+   "original": "Мне бы хотелось…"
+  },
+  {
+   "id": "reply-mediator-start-4",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "mediator-start",
+   "text": "Мне важно, чтобы…",
+   "status": "draft"
+  },
+  {
+   "id": "reply-mediator-start-5",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "mediator-start",
+   "text": "Мне сейчас непросто, потому что…",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-tired-1",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-tired",
+   "text": "Я рядом. Отдыхай, остальное я беру на себя.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-tired-2",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-tired",
+   "text": "Понимаю, что ты устала. Хочешь, я всё сделаю сегодня?",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-tired-3",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-tired",
+   "text": "Ты много делаешь. Давай я возьму ужин.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-tired-4",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-tired",
+   "text": "Тебе можно отдохнуть. Я справлюсь.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-tired-5",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-tired",
+   "text": "Побудь просто собой. Мне хорошо с тобой, даже когда ты устала.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-irritated-1",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-irritated",
+   "text": "Я слышу тебя. Расскажешь, что сейчас тяжело?",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-irritated-2",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-irritated",
+   "text": "Понимаю. Давай я помогу, чем смогу.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-irritated-3",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-irritated",
+   "text": "Это не про меня, и всё же я рядом. Что тебе нужно?",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-irritated-4",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-irritated",
+   "text": "Я не обижаюсь. Давай чуть позже вернёмся к разговору.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-irritated-5",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-irritated",
+   "text": "Хочешь, я просто помолчу рядом?",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-sad-1",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-sad",
+   "text": "Я рядом. Можно ничего не объяснять.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-sad-2",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-sad",
+   "text": "Хочешь, я тебя обниму?",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-sad-3",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-sad",
+   "text": "Мне жаль, что тебе сейчас тяжело. Я здесь.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-sad-4",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-sad",
+   "text": "Ты не одна. Я тебя люблю.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-sad-5",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-sad",
+   "text": "Давай я заварю тебе чай и посижу рядом.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-happy-1",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-happy",
+   "text": "Как же хорошо, что у тебя хороший день.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-happy-2",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-happy",
+   "text": "Ты сегодня сияешь. Рад за тебя.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-happy-3",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-happy",
+   "text": "Расскажи, что тебя порадовало.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-happy-4",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-happy",
+   "text": "Мне нравится видеть тебя такой.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-him-she-happy-5",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "him-she-happy",
+   "text": "Давай отметим этот день чем-то приятным.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-ask-quiet-1",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-ask-quiet",
+   "text": "Мне сейчас нужна тишина. Это не про тебя.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-ask-quiet-2",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-ask-quiet",
+   "text": "Давай немного помолчим? Я вернусь, когда смогу.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-ask-quiet-3",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-ask-quiet",
+   "text": "Можно я побуду одна? Мне это нужно.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-ask-quiet-4",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-ask-quiet",
+   "text": "Сегодня я не очень разговорчивая. Просто будь рядом.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-ask-quiet-5",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-ask-quiet",
+   "text": "Мне нужно немного времени. Я скажу, когда будет легче.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-ask-help-1",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-ask-help",
+   "text": "Мне сегодня нужна помощь. Возьмёшь на себя ужин?",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-ask-help-2",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-ask-help",
+   "text": "Можешь обнять меня? Мне так спокойнее.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-ask-help-3",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-ask-help",
+   "text": "Мне было бы приятно, если бы ты спросил, как я.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-ask-help-4",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-ask-help",
+   "text": "Помоги мне с делами, пожалуйста. Мне сложно.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-ask-help-5",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-ask-help",
+   "text": "Мне нужно, чтобы меня просто выслушали.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-after-sharp-1",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-after-sharp",
+   "text": "Прости, я была резкой. Это не про тебя.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-after-sharp-2",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-after-sharp",
+   "text": "Мне жаль, что так вышло. Я хочу поговорить спокойнее.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-after-sharp-3",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-after-sharp",
+   "text": "Я переживала и сказала лишнего. Ты мне дорог.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-after-sharp-4",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-after-sharp",
+   "text": "Давай начнём заново? Я рядом.",
+   "status": "draft"
+  },
+  {
+   "id": "reply-her-after-sharp-5",
+   "group": "ready-reply",
+   "season": "any",
+   "slot": "her-after-sharp",
+   "text": "Спасибо, что был терпеливым.",
+   "status": "draft"
+  }
+ ]
+}
