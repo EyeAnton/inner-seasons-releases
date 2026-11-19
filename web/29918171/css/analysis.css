@@ -1,0 +1,6 @@
+.an-card { position: relative; margin: 0 0 14px; padding: 16px 44px 14px 16px; border-radius: 18px; background: var(--card, rgba(127,127,127,.1)); border: 1px solid rgba(127,127,127,.2); }
+.an-card .an-t { display: block; font-size: 17px; }
+.an-card .an-s { display: block; margin: 2px 0 8px; opacity: .7; }
+.an-card p { margin: 6px 0; font-size: 14px; line-height: 1.45; }
+.an-x { position: absolute; top: 8px; right: 8px; width: 32px; height: 32px; padding: 0; border: 0; background: none; color: inherit; opacity: .6; }
+.an-x .i { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; }
