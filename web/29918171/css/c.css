@@ -1,0 +1,5 @@
+/* Напоминание партнёру (reminder.js): поле времени в строке настроек и на шаге онбординга */
+.rem-ctl{display:flex;align-items:center;gap:10px;flex:none}
+input.f.rem-time{width:92px;height:40px;padding:0 8px;text-align:center;font-variant-numeric:tabular-nums}
+input.f.rem-time:disabled{opacity:.45}
+input.f.rem-big{height:60px;font-size:24px;font-weight:700;text-align:center;font-variant-numeric:tabular-nums}
